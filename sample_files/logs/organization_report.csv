@@ -1,0 +1,7 @@
+timestamp,name,category,target,status,error
+2026-11-21T19:27:54,data.csv,Spreadsheets,C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Spreadsheets\data.csv,ready,
+2026-11-21T19:27:54,image.jpg,Images,C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Images\image.jpg,ready,
+2026-11-21T19:27:54,music.mp3,Audio,C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Audio\music.mp3,ready,
+2026-11-21T19:27:54,notes.doc,Documents,C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Documents\notes.doc,ready,
+2026-11-21T19:27:54,presentation.pptx,Presentations,C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Presentations\presentation.pptx,ready,
+2026-11-21T19:27:54,report.txt,Documents,C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Documents\report.txt,ready,

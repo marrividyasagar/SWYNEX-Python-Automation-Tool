@@ -1,0 +1,12 @@
+2026-11-21 19:27:40,410 - INFO - Preview: data.csv -> C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Spreadsheets\data.csv
+2026-11-21 19:27:40,411 - INFO - Preview: image.jpg -> C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Images\image.jpg
+2026-11-21 19:27:40,411 - INFO - Preview: music.mp3 -> C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Audio\music.mp3
+2026-11-21 19:27:40,411 - INFO - Preview: notes.doc -> C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Documents\notes.doc
+2026-11-21 19:27:40,411 - INFO - Preview: presentation.pptx -> C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Presentations\presentation.pptx
+2026-11-21 19:27:40,412 - INFO - Preview: report.txt -> C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Documents\report.txt
+2026-11-21 19:27:54,891 - INFO - Moved data.csv to C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Spreadsheets\data.csv
+2026-11-21 19:27:54,896 - INFO - Moved image.jpg to C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Images\image.jpg
+2026-11-21 19:27:54,937 - INFO - Moved music.mp3 to C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Audio\music.mp3
+2026-11-21 19:27:54,942 - INFO - Moved notes.doc to C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Documents\notes.doc
+2026-11-21 19:27:54,947 - INFO - Moved presentation.pptx to C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Presentations\presentation.pptx
+2026-11-21 19:27:54,948 - INFO - Moved report.txt to C:\Users\Aksha\Downloads\SWYNEX-Python-Automation-Tool\sample_files\Documents\report.txt
